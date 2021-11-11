@@ -97,7 +97,7 @@ nav ul li a {
 
 /* ABOUT SECTION */
 #about-section {
-    background-image: url('/asset/img/building1.jpg');
+    background-image: url('https://raw.githubusercontent.com/ryansm03/harka/main/asset/img/building1.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
